@@ -29,11 +29,9 @@ Dashboard de Business Intelligence para análise de vendas, lucratividade e perf
 
 ## 📊 Dashboards
 
-![Dashboard Visão Executiva](./Captura%20de%20tela%202026-07-17%201223.png)
-
-![Dashboard Ranking](./Captura%20de%20tela%202026-07-17%201224.png)
-
-![Dashboard Crescimento](./Captura%20de%20tela%202026-07-17%201224.png)
+![Executiva](./dashboard-executiva.png)
+![Ranking](./dashboard-ranking.png)
+![Crescimento](./dashboard-crescimento.png)
 
 ## 📝 License
 MIT
