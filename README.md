@@ -29,8 +29,19 @@ Dashboard de Business Intelligence para análise de vendas, lucratividade e perf
 
 ## 📊 Dashboards
 
+### 1️⃣ Visão Executiva
+Painel principal com KPIs estratégicos: faturamento total, lucro, margem, ticket médio e performance por marketplace.
+
 ![Executiva](./dashboard-executiva.png)
+
+### 2️⃣ Ranking de SKUs
+Análise detalhada de produtos: detalhamento por SKU/canal, margem por produto e receita líquida, com dados granulares.
+
 ![Ranking](./dashboard-ranking.png)
+
+### 3️⃣ Crescimento
+Evolução mensal e semanal: receita, margem e lucro com variações percentuais e análise de tendências.
+
 ![Crescimento](./dashboard-crescimento.png)
 
 ## 📝 License
