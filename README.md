@@ -27,6 +27,17 @@ Dashboard de Business Intelligence para análise de vendas, lucratividade e perf
 - Q1 2027: Automação (alertas)
 - Q2 2027: Expansão (mobile)
 
+## 📊 Dashboards
+
+### Visão Executiva
+![Dashboard Visão Executiva](./screenshots/dashboard-executiva.png)
+
+### Ranking Inteligente
+![Dashboard Ranking](./screenshots/dashboard-ranking.png)
+
+### Crescimento
+![Dashboard Crescimento](./screenshots/dashboard-crescimento.png)
+
 ## 📝 License
 MIT
 
